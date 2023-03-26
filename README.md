@@ -19,3 +19,5 @@ SQL Server (MSSQLSERVER)
 
 ### Using the API standalone
 For testing the API, make requests to various endpoints using the Swagger UI
+
+![image](https://user-images.githubusercontent.com/111216334/227753434-daa04465-18a5-4d41-934b-6c16bf466c03.png)
