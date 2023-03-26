@@ -3,8 +3,8 @@ This is a .NET Core Web API to manage a simple TODO application
 The API contains endpoints that allow users to create, retrieve, update, and delete TODO items
 
 ## Prerequisites
-Microsoft Visual Studio Community 2022 (64-bit) Version 17.5.1
-SQL Server Management Studio 19.0.2
+* Microsoft Visual Studio Community 2022 (64-bit) Version 17.5.1
+* SQL Server Management Studio 19.0.2
 
 ### .NET
 [Install .NET 7](https://dotnet.microsoft.com/en-us/download)
